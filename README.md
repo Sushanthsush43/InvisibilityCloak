@@ -5,4 +5,4 @@ Features
 
 
 Demo
-[Invisibility Cloak Demo](https://github.com/Sushanthsush43/InvisibilityCloak/blob/main/demo.gif)
+![Invisibility Cloak Demo](https://github.com/Sushanthsush43/InvisibilityCloak/blob/main/demo.gif)
